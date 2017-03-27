@@ -2,3 +2,5 @@
 	default = simple
 [credential]
 	helper = osxkeychain
+[core]
+	excludesfile = /Users/elysium/.gitignore_global
