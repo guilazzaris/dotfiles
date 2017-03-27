@@ -1,0 +1,11 @@
+[push]
+	default = simple
+[credential]
+	helper = osxkeychain
+[core]
+	excludesfile = /Users/elysium/.gitignore_global
+[user]
+	name = Guilherme Lazzaris
+	email = gui.lazzaris@gmail.com
+[alias]
+	st = status
